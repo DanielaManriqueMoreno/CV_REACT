@@ -1,7 +1,7 @@
 export const cvDatos = {
     nombre: "DANIELA MANRIQUE",
     titulo : "ESTUDIANTE DE DESARROLLO DE SOFTWARE",
-    foto: "/fotogit.jpg",  
+    foto: "/fotocv.jpg",  
     about: "Soy actualmente aprendiz de la formacion analisis y desarrollo de software, soy una persona que le interesa mucho el aprendizaje continuo y el desarrollo de soluciones innovadoras. Busco adquirir experiencia en el área de  programación y contribuir con mis  habilidades analíticas y capacidad para  resolver problemas.",
     educacion: [
       { 
